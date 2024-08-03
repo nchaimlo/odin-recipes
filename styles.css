@@ -1,0 +1,40 @@
+body{
+    background-color: black;
+    color: white;
+    font-family: 'Arial', Arial, Helvetica, sans-serif;
+}
+
+.page-title{
+    text-align: center;
+
+}
+
+a:link{
+    color: hsl(185, 100%, 75%);
+}
+
+a:visited{
+    color:hsl(185, 100%, 90%)
+}
+
+a:hover{
+    color:hsl(185, 100%, 50%)
+}
+
+#link-list{
+    list-style-type: none;
+    text-align: center;
+}
+
+.disclaimer{
+    font-style: italic;
+}
+
+.image{
+    margin: auto;
+    width:fit-content;
+    border: 3px;
+    padding: 10px;
+
+}
+
