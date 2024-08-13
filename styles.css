@@ -32,10 +32,9 @@ a:hover{
 }
 
 .image{
-    margin: auto;
-    width:fit-content;
-    border: 3px;
-    padding: 10px;
+    margin: 0 auto;
+    width: 300px;
+    height: auto;
 
 }
 
@@ -51,8 +50,14 @@ a:hover{
 }
 
 .main-content{
-    margin: auto 300px;
+    margin: 0 auto;
+    width: 300px;
     background-color: hsl(185, 0%, 15%);
     padding: 30px;
+}
+
+img{
+    width: 300px;
+    margin: 0 auto;
 }
 
