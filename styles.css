@@ -42,6 +42,8 @@ a:hover{
 .button-container{
     margin-inline: auto;
     width:fit-content;
+    padding: 50px;
+    background-color: hsl(185, 0%, 15%);
 }
 
 .buttons{
@@ -50,5 +52,7 @@ a:hover{
 
 .main-content{
     margin: auto 300px;
+    background-color: hsl(185, 0%, 15%);
+    padding: 30px;
 }
 
