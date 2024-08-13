@@ -28,6 +28,7 @@ a:hover{
 
 .disclaimer{
     font-style: italic;
+    text-align: center;
 }
 
 .image{
@@ -36,5 +37,18 @@ a:hover{
     border: 3px;
     padding: 10px;
 
+}
+
+.button-container{
+    margin-inline: auto;
+    width:fit-content;
+}
+
+.buttons{
+    padding: 50px;
+}
+
+.main-content{
+    margin: auto 300px;
 }
 
